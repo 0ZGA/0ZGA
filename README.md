@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0ZGA
+- 👀 I’m interested in electrical circuit , programming and interested in creating
+- 🌱 I’m currently learning industrial automation
